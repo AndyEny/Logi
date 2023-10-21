@@ -1,2 +1,3 @@
 # Logi
-projects made by as in Unity III
+projects made in Unity III
+in acest semestru lucram cu variabile de tipuri noi
